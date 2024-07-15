@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parsa Sedghi
 - 👀 I’m interested in cloud computing & cybersecurity
 - 🌱 I’m currently learning Java & C#
-- 💞️ I’m currently attend the University of Maryland College Park
+- 💞️ I currently attend the University of Maryland College Park
 - 📫 How to reach me: https://www.linkedin.com/in/parsa-sedghi/
 
 <!---
